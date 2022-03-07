@@ -1,0 +1,84 @@
+/*
+
+Vivado v2015.1 (64-bit)
+SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+Process ID: 18916
+
+Current time: 	3/7/22 1:46:29 PM IST
+Time zone: 	India Standard Time (Asia/Calcutta)
+
+OS: Windows 8
+Version: 6.2
+Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1366x768
+Screen resolution (DPI): 96
+Available screens: 1
+Default font: family=Tahoma,name=Tahoma,style=plain,size=11
+
+Java version: 	1.8.0_25 64-bit
+Java home: 	C:/Xilinx/Vivado/2015.1/tps/win64/jre
+
+User name: 	HP
+User directory: D:/FinalYear[Project and internship]/project/AVTEC_FINAL/pwm_avtec
+User country: 	IN
+User language: 	en
+User locale: 	en_IN
+
+Vivado preferences path: C:/Users/HP/AppData/Roaming/Xilinx/Vivado/2015.1/vivado.ini
+Vivado layouts directory: C:/Users/HP/AppData/Roaming/Xilinx/Vivado/2015.1/layouts/application
+
+GUI allocated memory:	122 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 375 MB
+
+*/
+
+// TclEventType: START_GUI
+// HColorUtils.generateUniqueColorPalette (num colors: 56) elapsed time: 2.1s
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// cp:P (cl:JFrame):  Open Project : addNotify
+// Opening Vivado Project: D:\FinalYear[Project and internship]\project\AVTEC_FINAL\pwm_avtec\pwm_avtec.xpr. Version: Vivado v2015.1 
+// [GUI Memory]: 37 MB (+36180kb) [00:00:10]
+// [Engine Memory]: 349 MB (+214714kb) [00:00:10]
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project {D:/FinalYear[Project and internship]/project/AVTEC_FINAL/pwm_avtec/pwm_avtec.xpr} 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project {D:/FinalYear[Project and internship]/project/AVTEC_FINAL/pwm_avtec/pwm_avtec.xpr} 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'D:/AVTEC_FINAL/pwm_avtec' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// HMemoryUtils.trashcanNow. Engine heap size: 406 MB. GUI used memory: 24 MB. Current time: 3/7/22 1:46:31 PM IST
+// [Engine Memory]: 406 MB (+41232kb) [00:00:15]
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 41 MB (+2522kb) [00:00:21]
+// [Engine Memory]: 430 MB (+4101kb) [00:00:25]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2015.1/data/ip'. 
+// [Engine Memory]: 463 MB (+12034kb) [00:00:27]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: pwm_avtec; location: D:/FinalYear[Project and internship]/project/AVTEC_FINAL/pwm_avtec; part: xc7a35tcpg236-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:28 ; elapsed = 00:00:21 . Memory (MB): peak = 688.227 ; gain = 154.852 
+// [GUI Memory]: 49 MB (+5680kb) [00:00:31]
+dismissDialog("Open Project"); // cp:P (cl:JFrame)
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// a:a (cl:JFrame): Critical Messages: addNotify
+selectButton(PAResourceAtoD.CmdMsgDialog_OK, "OK"); // i:a (JPanel:JComponent, a:a)
+dismissDialog("Critical Messages"); // a:a (cl:JFrame)
+// PAPropertyPanels.initPanels (pwm_v.vhd) elapsed time: 0.3s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, pwm_v - Behavioral (pwm_v.vhd)]", 1, false); // A:k (H:JPanel, cl:JFrame)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, pwm_v - Behavioral (pwm_v.vhd)]", 1, false, false, false, false, false, true); // A:k (H:JPanel, cl:JFrame) - Double Click
+// [GUI Memory]: 53 MB (+1582kb) [00:00:40]
+// [GUI Memory]: 56 MB (+559kb) [00:00:53]
+// [GUI Memory]: 59 MB (+352kb) [00:03:37]
+// [GUI Memory]: 62 MB (+288kb) [00:11:11]

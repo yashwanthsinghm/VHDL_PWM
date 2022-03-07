@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Fri Feb 07 00:19:05 2020
+# Process ID: 4744
+# Log file: D:/AVTEC_FINAL/pwm_avtec/pwm_avtec.runs/synth_1/pwm_v.vds
+# Journal file: D:/AVTEC_FINAL/pwm_avtec/pwm_avtec.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source pwm_v.tcl -notrace
